@@ -1,0 +1,10 @@
+{
+    "@context": "https://w3id.org/codemeta/3.0",
+    "type": "SoftwareSourceCode",
+    "codeRepository": "https://github.com/thual/refraction",
+    "dateCreated": "2026-04-01",
+    "datePublished": "2026-04-01",
+    "description": "Ce Jupyter notebook calcule la réfraction par une bathymétrie d'une houle monochromatique rectiligne loin du rivage où la profondeur est supposée constante ou très grande.\n",
+    "license": "https://spdx.org/licenses/CC-BY-4.0",
+    "name": "Réfraction de la houle"
+}
